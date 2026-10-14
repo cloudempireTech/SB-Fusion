@@ -8,7 +8,7 @@ Open `index.html` in a browser after extracting this package. Navigation and ass
 
 Optional local server: `python3 -m http.server 8000 --directory .`, then open `http://localhost:8000`.
 
-No repository was created, no GitHub writes were made, and the website was not published. No enquiries or messages were sent.
+The source is committed in the private cloudempireTech/SB-Fusion repository on the sb-fusion-salon branch. The website has not been published. No enquiries or messages were sent.
 
 ## Editing
 
@@ -28,3 +28,4 @@ No final domain was supplied. Before deployment, add domain-based canonical URLs
 ## Browser verification
 
 Source/asset checks are included, but browser QA at mobile, tablet and desktop widths and four requested rendered screenshots remain unverified in this session. The managed preview's required browser skill is unavailable. The delivered source and self-contained preview can be opened directly for review.
+
